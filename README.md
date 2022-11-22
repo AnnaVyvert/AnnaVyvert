@@ -38,6 +38,27 @@
         <!-- Python -->
         <a href="https://github.com/AnnaVyvert?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        </a>
-        
+        </a>    
 </p>
+<p align="center">
+        <samp>
+                「 How to reach me: 」
+                <br>
+        </samp>
+        <br>
+  <a href='https://mail.google.com/mail/?view=cm&fs=1&to=0073av@gmail.com'>
+    <img src="https://img.shields.io/badge/-0073av@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:0073@gmail.com">
+  </a>
+  <a href='https://t.me/anvy73'>
+    <img src="https://img.shields.io/badge/-@anvy73-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/anvy73">
+  </a>
+  <a href='https://www.reddit.com/user/AnnaVyvert'>
+    <img src="https://img.shields.io/badge/-@AnnaVyvert-c14438?style=social&logo=Reddit&logoColor=red&link=https://www.reddit/user/AnnaVyvert">
+  </a>
+</p>
+
+<!--
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)
+
+[![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://)](https://)
+-->
