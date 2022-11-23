@@ -4,15 +4,12 @@
 <p align="center">
         <samp>
                 <br>
-                「 Technologies I interested in: 」
+                「 Technologies and tools I interested in: 」
                 <br>
                 <br>
         </samp>
-        <!-- Programming Languages -->
-        <!-- Code logo -->
-        </a>
         <!-- HTML -->
-        <a href="https://github.com/AnnaVyvert?tab=repositories" target="_blank"><img alt="HTML"
+        <a href="https://github.com/AnnaVyvert?tab=repositories" target="_blank"><img alt="HTML" style="border-radius: 45px 1px 45px 1px"
                         src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
         </a>
         <!-- CSS  -->
@@ -35,10 +32,27 @@
         <a href="https://github.com/AnnaVyvert?tab=repositories" target="_blank"><img alt="Angular"
                         src="https://img.shields.io/badge/-Angular-f44336?style=flat-square&logo=Angular&logoColor=white">
         </a>
+        <!-- visual-studio-code -->
+        <a href="https://github.com/AnnaVyvert?tab=repositories" target="_blank"><img alt="OS"
+          src="https://img.shields.io/badge/-VSC-3776AB?style=flat-square&logo=visual-studio-code&logoColor=white">
+        </a>
         <!-- Python -->
         <a href="https://github.com/AnnaVyvert?tab=repositories" target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        </a>    
+                        src="https://img.shields.io/badge/-Python-3d9b64?style=flat-square&logo=Python&logoColor=white">
+        </a>
+        <!-- Bash -->
+        <a href="https://github.com/AnnaVyvert?tab=repositories" target="_blank"><img alt="Bash"
+                        src="https://img.shields.io/badge/-Bash-111?style=flat-square&logo=gnu-bash&logoColor=white">
+        </a>
+        <!-- linux -->
+        <a href="https://github.com/AnnaVyvert?tab=repositories" target="_blank"><img alt="OS"
+          src="https://img.shields.io/badge/-Linux-493999?style=flat-square&logo=linux&logoColor=white">
+        </a>
+       <!-- postgresql -->
+        <a href="https://github.com/AnnaVyvert?tab=repositories" target="_blank"><img alt="OS"
+          src="https://img.shields.io/badge/-psql-3776AB?style=flat-square&logo=postgresql&logoColor=white">
+        </a>
+     
 </p>
 <p align="center">
         <samp>
