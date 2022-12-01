@@ -4,7 +4,7 @@
 <p align="center">
         <samp>
                 <br>
-                「 Technologies and tools I interested in: 」
+                「 Technologies and tools I'm interested in: 」
                 <br>
                 <br>
         </samp>
