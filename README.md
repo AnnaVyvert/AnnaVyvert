@@ -28,7 +28,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ## 🗠 github stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=annavyvert&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=annavyvert&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=annavyvert&layout=compact&langs_count=10&hide_border=false&include_orgs=true&theme=dark#gh-dark-mode-only")
 
 ## ✆ how to reach me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/!AV#1800) 
