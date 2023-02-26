@@ -26,6 +26,10 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-0072E5?style=for-the-badge&logo=docker&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-671ddf?style=for-the-badge&logo=Axios&logoColor=white)
+![mui](https://img.shields.io/badge/-mui-0072E5?style=for-the-badge&logo=mui&logoColor=white)
+
 ## 🗠 github stats:
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=annavyvert&theme=dark&hide_border=false) | ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=annavyvert&layout=compact&langs_count=10&hide_border=false&include_orgs=true&theme=dark#gh-dark-mode-only") |
 |-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
