@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUxMGU0YmUyNTQ3NzBiMDNmYWVjMDJjNDc3YWMyYWJjYWM3NWM2MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/VJRQKY3oCwTKvZrp1M/giphy.gif?s" width="256"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc0YjEyOTg3NGMzYjJmNjMzYjJiYTdlZDUwMGVhYjViYmI2NWZjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/dWTi2yiBnSq1K2MkTE/VJRQKY3oCwTKvZrp1M/giphy.gif?s" width="256"/>
     <div id="badges">
         <a href="https://t.me/anvy73">
             <img src="https://img.shields.io/badge/Telegram-%2324a1de.svg?style=for-the-badge&logo=Telegram&logoColor=white"/>
