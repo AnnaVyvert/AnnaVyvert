@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-<h3> I am a half-part frontend developer on angular and react. </h3>
+<h3> I am a frontend developer on angular and react. </h3>
 </div>
 
 ## ⚙ technologies and tools I'm interested in:
