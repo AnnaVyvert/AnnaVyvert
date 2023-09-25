@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-<h3> I am a frontend developer on angular and react. </h3>
+<h3> I am a FE developer on angular and react a little. I have experience on BE with node.js </h3>
 </div>
 
 ## ⚙ technologies and tools I'm interested in:
