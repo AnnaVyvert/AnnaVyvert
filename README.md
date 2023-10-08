@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-<h3> I am a FE developer on angular and react a little. I don't mind to make BE with node.js </h3>
+<h3> I am a FE developer on angular and react a little. sometimes I do DevOps and system design </h3>
 </div>
 
 ## ⚙ technologies and tools I'm interested in:
