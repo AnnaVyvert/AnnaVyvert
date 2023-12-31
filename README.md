@@ -34,11 +34,13 @@
 ![mui](https://img.shields.io/badge/-mui-0072E5?style=for-the-badge&logo=mui&logoColor=white)
 ![angular](https://img.shields.io/badge/-material-3f51b5?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ionic](https://img.shields.io/badge/ionic-%23563D7C.svg?style=for-the-badge&logo=ionic&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Nest](https://img.shields.io/badge/nest-FF0141?style=for-the-badge&logo=nest&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mySQL](https://img.shields.io/badge/mySQL-e97b00.svg?style=for-the-badge&logo=mySQL&logoColor=white)
@@ -52,8 +54,10 @@
 ![matplotlib](https://img.shields.io/badge/matplotlib-11567e.svg?style=for-the-badge&logo=matplotlib&logoColor=%white)
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-FF4001.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Sonarlint](https://img.shields.io/badge/Sonarlint-C001FF?style=for-the-badge&logo=sonarlint&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-0072E5?style=for-the-badge&logo=docker&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-671ddf?style=for-the-badge&logo=Axios&logoColor=white)
