@@ -61,6 +61,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-0072E5?style=for-the-badge&logo=docker&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-671ddf?style=for-the-badge&logo=Axios&logoColor=white)
+![Gitlab](https://img.shields.io/badge/-Gitlab-FE7E00?style=for-the-badge&logo=Gitlab&logoColor=white)
 
 ## 🗠 github stats:
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=annavyvert&theme=dark&hide_border=false) | ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=annavyvert&layout=compact&langs_count=8&hide_border=false&include_orgs=true&theme=dark#gh-dark-mode-only") |
