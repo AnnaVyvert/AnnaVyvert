@@ -12,12 +12,12 @@
         </a>
     </div>
     <h2>
-        HI THERE! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+        hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h2>
 </div>
 
 <div align="center">
-<h3> I am a FE developer on angular and react a little. sometimes I do DevOps and system design </h3>
+<h3> I am a FE developer on angular and react. sometimes I like DevOps and system design </h3>
 </div>
 
 ## ⚙ technologies and tools I'm interested in:
