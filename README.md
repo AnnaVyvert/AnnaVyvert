@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-<h3> I am a FE developer on angular and react. sometimes I like DevOps and system design </h3>
+<h3> I am FE developer on angular and react. I like DevOps and system design also </h3>
 </div>
 
 ## ⚙ technologies and tools I'm interested in:
