@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-<h3> I'm a Frontend Developer specializing mostly in Angular. I enjoy Unix, DevOps and system design</h3>
+<h3> I'm a Frontend Developer specializing mostly in Angular. I enjoy Unix, DevOps and system design.</h3>
 </div>
 
 ## ⚙ technologies and tools I'm interested in:
@@ -38,6 +38,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Nest](https://img.shields.io/badge/nest-FF0141?style=for-the-badge&logo=nest&logoColor=white)
@@ -45,22 +46,12 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mySQL](https://img.shields.io/badge/mySQL-e97b00.svg?style=for-the-badge&logo=mySQL&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-11567e.svg?style=for-the-badge&logo=matplotlib&logoColor=%white)
-
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-FF4001.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Sonarlint](https://img.shields.io/badge/Sonarlint-C001FF?style=for-the-badge&logo=sonarlint&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-0072E5?style=for-the-badge&logo=docker&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-671ddf?style=for-the-badge&logo=Axios&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-FE7E00?style=for-the-badge&logo=Gitlab&logoColor=white)
 
 ## 🗠 github stats:
