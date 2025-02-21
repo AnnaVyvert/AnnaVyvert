@@ -1,18 +1,7 @@
 <div id="header" align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc0YjEyOTg3NGMzYjJmNjMzYjJiYTdlZDUwMGVhYjViYmI2NWZjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/dWTi2yiBnSq1K2MkTE/VJRQKY3oCwTKvZrp1M/giphy.gif?s" width="256"/>
-    <div id="badges">
-        <a href="https://t.me/anvy73">
-            <img src="https://img.shields.io/badge/Telegram-%2324a1de.svg?style=for-the-badge&logo=Telegram&logoColor=white"/>
-        </a>
-        <a href="https://discord.gg/!AV#1800">
-            <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-        </a>
-        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=0073av@gmail.com&su=SUBJECT&body=BODY">
-            <img src="https://img.shields.io/badge/Gmail-%23FF4540.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
-        </a>
-    </div>
     <h2>
-        hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+        Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h2>
 </div>
 
@@ -20,7 +9,7 @@
 <h3> I'm a Frontend Developer specializing mostly in Angular. I enjoy Unix, DevOps and system design.</h3>
 </div>
 
-## ⚙ technologies and tools I'm interested in:
+## ⚙ Technologies and Tools I'm interested in:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -54,6 +43,16 @@
 ![Docker](https://img.shields.io/badge/-Docker-0072E5?style=for-the-badge&logo=docker&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-FE7E00?style=for-the-badge&logo=Gitlab&logoColor=white)
 
-## 🗠 github stats:
+## Contact me:
+<div id="badges">
+    <a href="https://t.me/anmv73">
+        <img src="https://img.shields.io/badge/Telegram-%2324a1de.svg?style=for-the-badge&logo=Telegram&logoColor=white"/>
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=0073av@gmail.com&su=SUBJECT&body=BODY">
+        <img src="https://img.shields.io/badge/Gmail-%23FF4540.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    </a>
+</div>
+
+## 📊 Stats:
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=annavyvert&theme=dark&hide_border=false) | ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=annavyvert&layout=compact&langs_count=8&hide_border=false&include_orgs=true&theme=dark#gh-dark-mode-only") |
 |-|-|
