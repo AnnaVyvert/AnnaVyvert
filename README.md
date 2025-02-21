@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-<h3> I'm Frontend-developer on Angular and React. I like DevOps and System Design.</h3>
+<h3> I'm a Frontend Developer specializing mostly in Angular. I enjoy Unix, DevOps and system design</h3>
 </div>
 
 ## ⚙ technologies and tools I'm interested in:
