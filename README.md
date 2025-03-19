@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<h3> I'm a Frontend Developer specializing mostly in Angular. I enjoy Unix, DevOps and system design.</h3>
+<h3> I'm a Frontend Developer specializing in Angular. I enjoy Unix, DevOps and system design.</h3>
 </div>
 
 ## ⚙ Technologies and Tools I'm interested in:
