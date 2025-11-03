@@ -54,5 +54,4 @@
 </div>
 
 ## 📊 Stats:
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=annavyvert&theme=dark&hide_border=false) | ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=annavyvert&layout=compact&langs_count=8&hide_border=false&include_orgs=true&theme=dark#gh-dark-mode-only") |
-|-|-|
+![](https://github-readme-streak-stats.herokuapp.com/?user=annavyvert&theme=dark&hide_border=false)
