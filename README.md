@@ -43,9 +43,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-0072E5?style=for-the-badge&logo=docker&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-FE7E00?style=for-the-badge&logo=Gitlab&logoColor=white)
 
-## Contact me:
+## 💬 Contact me:
 <div id="badges">
-    <a href="https://t.me/anmv73">
+    <a href="https://t.me/n_skv">
         <img src="https://img.shields.io/badge/Telegram-%2324a1de.svg?style=for-the-badge&logo=Telegram&logoColor=white"/>
     </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=0073av@gmail.com&su=SUBJECT&body=BODY">
