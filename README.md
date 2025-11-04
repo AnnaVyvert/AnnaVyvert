@@ -1,19 +1,17 @@
-<div id="header" align="center">
-  <img src="./assets/maxwell.gif" width="256"/>
-  <div align="center">
-    <video controls="" autoplay="" name="media">
-      <source src="./assets/maxwell.mp3" type="audio/mp3">
-      <a href="./audio.html">Maxwell sound</a>
-      <div>(github doesn't support video tags)</div>
-    </video>
-  </div>
+<div align="center">
+  <a href="https://annavyvert.github.io/AnnaVyvert/hello-maxwell.html">
+    <img src="./assets/maxwell.gif" width="256"/>
+  </a>
   <h2>
-    [Greetings]! 👋
+    Greetings! 👋
   </h2>
 </div>
 
 <p align="center">
-  [cool bio]
+  🎉 You won't find anything interesting here! 🎉
+</p>
+<p align="center">
+  P.S. Do not forget to pat Maxwell.
 </p>
 
 <p align="center">
