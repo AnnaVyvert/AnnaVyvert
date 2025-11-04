@@ -11,7 +11,7 @@
   🎉 You won't find anything interesting here! 🎉
 </p>
 <p align="center">
-  P.S. Do not forget to pat Maxwell.
+  P.S. Do not forget to pat the Maxwell.
 </p>
 
 <p align="center">
